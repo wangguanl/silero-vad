@@ -1,0 +1,4 @@
+
+# --- local runtime: models / caches / artifacts (not versioned) ---
+__pycache__/
+*.py[cod]
